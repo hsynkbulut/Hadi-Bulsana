@@ -55,7 +55,7 @@
  </table>
 
 ## Uygulama Tanıtım Videosu
-https://github.com/hsynkbulut/Hadi-Bulsana/assets/106428623/2ca74c4a-3230-4108-8916-a4380093b859
+https://github.com/hsynkbulut/Hadi-Bulsana/assets/106428623/2867b8a8-52dc-4ab5-b8bd-432c49703a0c
 
 ---
 
