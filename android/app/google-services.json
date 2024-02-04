@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "787297789634",
+    "firebase_url": "https://denemeapp-6b435-default-rtdb.firebaseio.com",
+    "project_id": "denemeapp-6b435",
+    "storage_bucket": "denemeapp-6b435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787297789634:android:0f37621900d9f7ddba3d5b",
+        "android_client_info": {
+          "package_name": "com.example.deneme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787297789634-64d2k5g6pl9urhkt6nibmd3nruvdepb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-Hf55aE75XBwJgYo8hL_Jgm2Cq7pS0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787297789634-64d2k5g6pl9urhkt6nibmd3nruvdepb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787297789634-nqpd600r8phhgc9085godpb98qn2e92l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.denemeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787297789634:android:25d58d746edb5df3ba3d5b",
+        "android_client_info": {
+          "package_name": "com.example.hadi_bulsana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787297789634-64d2k5g6pl9urhkt6nibmd3nruvdepb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-Hf55aE75XBwJgYo8hL_Jgm2Cq7pS0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787297789634-64d2k5g6pl9urhkt6nibmd3nruvdepb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787297789634-nqpd600r8phhgc9085godpb98qn2e92l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.denemeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
